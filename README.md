@@ -1,55 +1,32 @@
-# Detailed README
+# Machine Learning Specialization
+- **Where:** Coursera
+- **University/Institute:** Deeplearning.AI
+- **Status:** In Progress
 
-## Specializations
+## Courses in this Specialization
+1. Supervised Machine Learning: Regression and Classification
+   - **Status:** In Progress
+   - **Link:** https://www.coursera.org/learn/machine-learning?specialization=machine-learning-introduction
 
-### [Specialization Name]
-- **Where:** [Platform where you are taking this specialization]
-- **University/Institute:** [Name of the University]
-- **Status:** [Completed / In Progress / Not Started]
+2. Advanced Learning Algorithms
+   - **Status:** Not Started
+   - **Link:** https://www.coursera.org/learn/advanced-learning-algorithms?specialization=machine-learning-introduction
 
-#### Courses in this Specialization
-1. Course Name
-   - **Status:** [Completed / In Progress / Not Started]
-   - **Link:** [URL to course page, if available]
-
-2. Course Name
-   - **Status:** [Completed / In Progress / Not Started]
-   - **Link:** [URL to course page, if available]
-
+3. Unsupervised Learning, Recommenders, Reinforcement Learning
+   - **Status:** Not Started
+   - **Link:** https://www.coursera.org/learn/unsupervised-learning-recommenders-reinforcement-learning?specialization=machine-learning-introduction
 ...
 
 ## Courses
 
-### [Course Name]
-- **Where:** [Platform where you are taking this course]
-- **University:** [Name of the University]
-- **Status:** [Completed / In Progress / Not Started]
-- **Link:** [URL to course page, if available]
+### Supervised Machine Learning: Regression and Classification
+- Week2
 
-### [Course Name]
-- **Where:** [Platform where you are taking this course]
-- **University:** [Name of the University]
-- **Status:** [Completed / In Progress / Not Started]
-- **Link:** [URL to course page, if available]
 
 ...
 
-## Other Activities
-
-### [Activity Name]
-- **Where:** [Platform or location of the activity]
-- **Status:** [Completed / In Progress / Not Started]
-- **Link:** [URL to activity page, if available]
-
-### [Activity Name]
-- **Where:** [Platform or location of the activity]
-- **Status:** [Completed / In Progress / Not Started]
-- **Link:** [URL to activity page, if available]
-
-...
 
 ## Certificates
 
-- **[Certificate Name]**
-  - **Where:** [Platform where the certificate was earned]
+- **Supervised Machine Learning: Regression and Classification**
   - **Link:** [URL to certificate, if available]
