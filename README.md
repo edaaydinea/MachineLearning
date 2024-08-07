@@ -40,9 +40,19 @@
 
 - **Week3:**
   - [**Lecture Note:**](Course1/Week3/lecture_note.md)
+  - [Optional Lab: Classification](Course1/Week3/C1_W3_Lab01_Classification_Soln.ipynb)
+  - [Optional Lab: Logistic Regression](Course1/Week3/C1_W3_Lab02_Sigmoid_function_Soln.ipynb)
+  - [Optional Lab: Logistic Regression, Decision Boundary](Course1/Week3/C1_W3_Lab03_Decision_Boundary_Soln.ipynb)
+  - [Optional Lab: Logistic Regression, Logistic Loss](Course1/Week3/C1_W3_Lab04_LogisticLoss_Soln.ipynb)
+  - [Optional Lab: Cost Function for Logistic Regression](Course1/Week3/C1_W3_Lab05_Cost_Function_Soln.ipynb)
+  - [Optional Lab: Gradient Descent for Logistic Regression](Course1/Week3/C1_W3_Lab06_Gradient_Descent_Soln.ipynb)
+  - [Ungraded Lab: Logistic Regression using Scikit-Learn](Course1/Week3//C1_W3_Lab07_Scikit_Learn_Soln.ipynb)
+  - [Ungraded Lab: Overfitting](Course1/Week3/C1_W3_Lab08_Overfitting_Soln.ipynb)
+  - [Optional Lab - Regularized Cost and Gradient](Course1/Week3/C1_W3_Lab09_Regularization_Soln.ipynb)
+  - [Practice Lab: Logistic Regression](Course1/Week3/C1_W3_Logistic_Regression.ipynb)
 ...
 
 ## Certificates
 
 - **Course 1: Supervised Machine Learning: Regression and Classification**
-  - **Link:** [URL to certificate, if available]
+  - **Link:** <https://coursera.org/share/ea0f566cd6d30c9494c8bd423d380b01>
