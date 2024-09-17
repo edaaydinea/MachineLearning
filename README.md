@@ -80,6 +80,9 @@ Unsupervised Learning, Recommenders, Reinforcement Learning
     *   [Optional Lab - ReLU activation](Course2/Week2/C2_W2_Relu.ipynb)
     *   [Optional Lab - Softmax activation](Course2/Week2/C2_W2_SoftMax.ipynb)
     *   [Optional Lab - Multi-class Classification](/Course2/Week2/C2_W2_Multiclass_TF.ipynb)
+    *   [Optional Lab - Derivatives](/Course2/Week2/C2_W2_Derivatives.ipynb)
+    *   [Optional Lab: Back propagation using a computation graph](/Course2/Week2/C2_W2_Backprop.ipynb)
+    *   [C2_W2_Assignment](/Course2/Week2/C2_W2_Assignment.ipynb)
 ---
 
 ## Certificates
