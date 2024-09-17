@@ -72,6 +72,14 @@ Unsupervised Learning, Recommenders, Reinforcement Learning
     *   [Optional Lab - Simple Neural Network](Course2/Week1/C2_W1_Lab03_CoffeeRoasting_Numpy.ipynb)
     * [C2_W1_Assignment](Course2/Week1/C2_W1_Assignment.ipynb)
 
+
+**Week 2:**
+
+*   [Lecture Note](Course2/Week2/lecture_note.ipynb)
+*   Programming Assignments
+    *   [Optional Lab - ReLU activation](Course2/Week2/C2_W2_Relu.ipynb)
+    *   [Optional Lab - Softmax activation](Course2/Week2/C2_W2_SoftMax.ipynb)
+    *   [Optional Lab - Multi-class Classification](/Course2/Week2/C2_W2_Multiclass_TF.ipynb)
 ---
 
 ## Certificates
