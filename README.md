@@ -83,6 +83,15 @@ Unsupervised Learning, Recommenders, Reinforcement Learning
     *   [Optional Lab - Derivatives](/Course2/Week2/C2_W2_Derivatives.ipynb)
     *   [Optional Lab: Back propagation using a computation graph](/Course2/Week2/C2_W2_Backprop.ipynb)
     *   [C2_W2_Assignment](/Course2/Week2/C2_W2_Assignment.ipynb)
+
+
+**Week 3:**
+
+*   [Lecture Note](Course2/Week3/lecture_note.ipynb)
+*   Programming Assignments
+    *   [Optional Lab - Model Evaluation and Selection](/Course2/Week3/C2W3_Lab_01_Model_Evaluation_and_Selection.ipynb)
+    *   [Optional Lab - Diagnosing Bias and Variance](/Course2/Week3/C2W3_Lab_02_Diagnosing_Bias_and_Variance.ipynb)
+    *   [C2_W3_Assignment](/Course2/Week3/C2_W3_Assignment.ipynb)
 ---
 
 ## Certificates
